@@ -15,7 +15,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://giphy.com/explore/dog-on-computer"  />
+  <img height="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </div>
 
 ###
