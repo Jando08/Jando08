@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pacman Graph
 
 on:
   schedule:
@@ -6,23 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: Jando08
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          filename: pacman-contribution-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Jando08
+          base: ""
+          plugin_isocalendar: yes
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
