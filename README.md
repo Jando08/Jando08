@@ -76,17 +76,8 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 </div>
 
----
 
-<h2 align="center">GitHub Analytics 📊</h2>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&layout=compact&theme=tokyonight"/>
-
-</div>
 
 <br>
 
