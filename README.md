@@ -119,10 +119,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <a href="https://instagram.com/andronova.98">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://wa.me/526871063165">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="alejandroleyva.0805@hotmail.com">
+<a href="mailto:alejandroleyva.0805@hotmail.com">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
