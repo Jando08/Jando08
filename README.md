@@ -109,18 +109,23 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 <div align="left">
   
-   <a href="https://linkedin.com/in/alejandro-parra-leyva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://instagram.com/andronova.98" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://wa.me/526871063165" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="alejandroleyva.0805@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+   <h2 align="left">Contáctame</h2>
+
+<div align="left">
+
+<a href="https://linkedin.com/in/alejandro-parra-leyva">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/andronova.98">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://wa.me/526871063165">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="alejandroleyva.0805@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
 </div>
 
 <div align="center">
