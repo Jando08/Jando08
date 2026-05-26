@@ -64,7 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jando08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Jando08/Jando08/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
 
 
