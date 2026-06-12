@@ -101,9 +101,6 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <br>
 <br>
 
-<h2 align="left">Contáctame</h2>
-
-<div align="left">
   
    <h2 align="left">Contáctame</h2>
 
