@@ -1,7 +1,7 @@
 <h2 align="center">Hey there. I'm Andro!! 👋</h2>
 
 <p align="center">
-Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
+Backend Software Developer from Sinaloa, Mexico 🇲🇽
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 ---
 
-<h2 align="left">Tecnologías</h2>
+<h2 align="left">Technologies</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -50,8 +50,6 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="30"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
@@ -74,7 +72,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <br>
 <br>
 
-   <h2 align="left">Contáctame</h2>
+   <h2 align="left">Contact Me</h2>
 
 <div align="left">
 
