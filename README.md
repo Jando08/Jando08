@@ -1,8 +1,29 @@
-<h2 align="center">Hey there. I'm Andro!! 👋</h2>
+```python
+#!/usr/bin/env python3
 
-<p align="center">
-Backend Software Developer from Sinaloa, Mexico 🇲🇽
-</p>
+class Developer:
+    def __init__(self):
+        self.name = "Andro"
+        self.role = "Backend Software Developer"
+        self.location = "Sinaloa, Mexico 🇲🇽"
+        self.about_me = [
+            "🎓 Software Engineering student passionate about backend",
+            "💻 Experienced in C#, .NET, Python, and REST APIs",
+            "🌱 Currently diving into cloud architecture & microservices",
+            "⚡ Strong foundation in databases, Docker, and Git",
+            "🚀 Solving real-world problems with clean code",
+        ]
+
+    def greet(self):
+        print(f"Hi, I'm {self.name}!")
+        print(f"📍 {self.location}")
+        print("─── About Me ───")
+        for item in self.about_me:
+            print(f"  {item}")
+
+me = Developer()
+me.greet()
+```
 
 <div align="center">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5iOHE0OTl4emNtM3JhbGIyb2EzaDh3YTY5NmZ5cnlkYTFyN28ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
@@ -11,18 +32,6 @@ Backend Software Developer from Sinaloa, Mexico 🇲🇽
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet"/>
 </div>
-
----
-
-<h2 align="left">About Me</h2>
-
-<ul>
-  <li>🎓 Software Engineering student passionate about backend development</li>
-  <li>💻 Experienced in C#, .NET, Python, and building scalable REST APIs</li>
-  <li>🌱 Currently diving deeper into cloud architecture and microservices</li>
-  <li>⚡ Strong foundation in databases, Docker, and Git workflows</li>
-  <li>🚀 Always eager to tackle real-world problems with clean, maintainable code</li>
-</ul>
 
 ---
 
