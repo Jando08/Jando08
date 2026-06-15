@@ -2,15 +2,14 @@
 
 <p align="center">
 Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
- </p>
+</p>
+
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5iOHE0OTl4emNtM3JhbGIyb2EzaDh3YTY5NmZ5cnlkYTFyN28ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet"/>
-</div>
-
-   
-<div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5iOHE0OTl4emNtM3JhbGIyb2EzaDh3YTY5NmZ5cnlkYTFyN28ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 </div>
 
 ---
@@ -52,7 +51,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img width="30"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
@@ -72,12 +71,6 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 </picture>
 
 </div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jando08&theme=react-dark" alt="GitHub Activity Graph"/>
-</div>
-
 <br>
 <br>
 
