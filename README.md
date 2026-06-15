@@ -2,9 +2,13 @@
 
 <p align="center">
 Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
-</p>
+ </p>
 
-  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet"/>
+</div>
+
+   
 <div align="center">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5iOHE0OTl4emNtM3JhbGIyb2EzaDh3YTY5NmZ5cnlkYTFyN28ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 </div>
@@ -13,18 +17,13 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 <h2 align="left">Sobre Mi</h2>
 
-<p align="left">
-
-🎓 Estudiante de Ingeniería de Software <br>
-💻 Interesado en aprender cómo funciona la tecnología <br>
-🌱 Actualmente aprendiendo y mejorando día con día <br>
-⚡ Enfocado en desarrollar proyectos para fortalecer mi lógica de programación <br>
-🚀 Construyendo experiencia mediante proyectos reales
-
-</p>
-
-###
-
+<ul>
+  <li>🎓 Estudiante de Ingeniería de Software</li>
+  <li>💻 Interesado en aprender cómo funciona la tecnología</li>
+  <li>🌱 Actualmente aprendiendo y mejorando día con día</li>
+  <li>⚡ Enfocado en desarrollar proyectos para fortalecer mi lógica de programación</li>
+  <li>🚀 Construyendo experiencia mediante proyectos reales</li>
+</ul>
 
 ---
 
@@ -52,6 +51,8 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="30"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
@@ -72,9 +73,14 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 </div>
 <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jando08&theme=react-dark" alt="GitHub Activity Graph"/>
+</div>
+
+<br>
 <br>
 
-  
    <h2 align="left">Contáctame</h2>
 
 <div align="left">
