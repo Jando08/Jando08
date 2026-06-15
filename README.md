@@ -74,7 +74,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <br>
 
 <div align="center">
-  [![Jando08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jando08)](https://github.com/Jando08/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=radical)
 </div>
 
 <br>
