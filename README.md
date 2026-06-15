@@ -6,7 +6,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Jando08&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
 
 </div>
 
@@ -26,7 +26,6 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jando08)](https://github.com/Jando08/github-readme-stats)
 
 ---
 
@@ -76,7 +75,7 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Jando08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
+  ![](https://komarev.com/ghpvc/?username=Jando08&label=Profile+Views&color=blueviolet&style=for-the-badge)
 </div>
 
 <br>
