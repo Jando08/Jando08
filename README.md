@@ -14,14 +14,14 @@ Soy un desarrollador de software backend de Sinaloa, México 🇲🇽
 
 ---
 
-<h2 align="left">Sobre Mi</h2>
+<h2 align="left">About Me</h2>
 
 <ul>
-  <li>🎓 Estudiante de Ingeniería de Software</li>
-  <li>💻 Interesado en aprender cómo funciona la tecnología</li>
-  <li>🌱 Actualmente aprendiendo y mejorando día con día</li>
-  <li>⚡ Enfocado en desarrollar proyectos para fortalecer mi lógica de programación</li>
-  <li>🚀 Construyendo experiencia mediante proyectos reales</li>
+  <li>🎓 Software Engineering student passionate about backend development</li>
+  <li>💻 Experienced in C#, .NET, Python, and building scalable REST APIs</li>
+  <li>🌱 Currently diving deeper into cloud architecture and microservices</li>
+  <li>⚡ Strong foundation in databases, Docker, and Git workflows</li>
+  <li>🚀 Always eager to tackle real-world problems with clean, maintainable code</li>
 </ul>
 
 ---
