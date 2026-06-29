@@ -51,13 +51,7 @@ me.greet()
 
 
 
-<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<br>
 
 <div align="center">
 
