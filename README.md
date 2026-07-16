@@ -38,11 +38,11 @@ me = Developer()
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student.
+- 🎓 Software Engineering Student.
 - 💻 Passionate about Backend Development.
-- ⚡ Building scalable APIs with **.NET & Python**.
-- 🐳 Comfortable working with **Docker, Git and Linux**.
-- ☁️ Currently learning **Cloud Architecture & Microservices**.
+- ⚡ Building scalable APIs with **.NET** and **Python**.
+- 🐳 Experienced with **Docker**, **Git** and **Linux**.
+- ☁️ Currently learning **Cloud Architecture**, **Microservices** and **System Design**.
 - 🚀 Always looking for new challenges.
 
 ---
@@ -56,9 +56,6 @@ me = Developer()
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -70,49 +67,25 @@ me = Developer()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jando08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jando08&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Jando08&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jando08&theme=tokyo-night&hide_border=true"/>
 
-## 🏆 GitHub Trophies
+<br><br>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jando08&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jando08&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<br>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jando08&theme=tokyonight"/>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg"/>
-</picture>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jando08&theme=tokyonight"/>
 
 </div>
 
@@ -127,9 +100,26 @@ me = Developer()
 
 ---
 
+## 👾 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/Jando08/Jando08/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🤝 Connect with Me
 
-<p>
+<p align="left">
 
 <a href="https://linkedin.com/in/alejandro-parra-leyva">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -149,6 +139,6 @@ me = Developer()
 
 <div align="center">
 
-### 💡 *"Code. Learn. Improve. Repeat."*
+### 💻 Code • Learn • Improve • Repeat
 
 </div>
