@@ -15,7 +15,8 @@ class Developer:
         self.currently_learning = [
             "Cloud Architecture ☁️",
             "Microservices 🛰️",
-            "System Design ⚙️"
+            "System Design ⚙️",
+            "Data Science with Python 📊🐍"
         ]
 
     def motto(self):
@@ -42,8 +43,9 @@ me = Developer()
 - 💻 Passionate about Backend Development.
 - ⚡ Building scalable APIs with **.NET** and **Python**.
 - 🐳 Experienced with **Docker**, **Git** and **Linux**.
-- ☁️ Currently learning **Cloud Architecture**, **Microservices** and **System Design**.
-- 🚀 Always looking for new challenges.
+- 📊 Currently learning **Data Science with Python**.
+- ☁️ Expanding my knowledge in **Cloud Architecture**, **Microservices** and **System Design**.
+- 🚀 Always looking for new challenges and opportunities to grow.
 
 ---
 
@@ -81,18 +83,13 @@ me = Developer()
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jando08&theme=tokyonight"/>
 
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jando08&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jando08&theme=tokyonight"/>
-
 </div>
 
 ---
 
 ## 🌱 Currently Learning
 
+- 📊 Data Science with Python
 - ☁️ Azure Cloud
 - 🛰️ Microservices
 - 🏗️ Clean Architecture
@@ -142,3 +139,4 @@ me = Developer()
 ### 💻 Code • Learn • Improve • Repeat
 
 </div>
+```
