@@ -6,9 +6,9 @@ class Developer:
         self.location = "Sinaloa, Mexico 🇲🇽"
 
         self.stack = {
-            "Languages": ["C#", "Python", "JavaScript", "PHP"],
+            "Languages": ["C#", "Python", "PHP"],
             "Backend": [".NET", "ASP.NET Core", "REST APIs"],
-            "Database": ["MySQL", "SQL Server"],
+            "Database": ["MySQL", "SQL Server", "PostgreSQL"],
             "Tools": ["Docker", "Git", "Linux", "Azure"]
         }
 
@@ -29,7 +29,7 @@ me = Developer()
 
 # Hi 👋 I'm Andro
 
-### Backend Software Developer • Software Engineering Student
+### Backend Software Developer • Data Scients Developer • Software Engineering Student
 
 <img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet"/>
 
