@@ -85,17 +85,7 @@ me = Developer()
 
 </div>
 
----
 
-## 🌱 Currently Learning
-
-- 📊 Data Science with Python
-- ☁️ Azure Cloud
-- 🛰️ Microservices
-- 🏗️ Clean Architecture
-- ⚙️ System Design
-
----
 
 ## 👾 Contribution Graph
 
