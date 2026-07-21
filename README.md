@@ -40,9 +40,8 @@ me = Developer()
 - 🎓 Software Engineering Student.
 - 💻 Passionate about Backend Development.
 - ⚡ Building scalable APIs with **.NET** and **Python**.
-- 🐳 Experienced with **Docker**, **Git** and **Linux**.
+- 🐳 Experienced with **Docker**, **Git** and **Linux*.
 - 📊 Currently learning **Data Science with Python**.
-- ☁️ Expanding my knowledge in **Cloud Architecture**, **Microservices** and **System Design**.
 - 🚀 Always looking for new challenges and opportunities to grow.
 
 ---
