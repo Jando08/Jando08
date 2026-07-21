@@ -13,9 +13,7 @@ class Developer:
         }
 
         self.currently_learning = [
-            "Cloud Architecture ☁️",
-            "Microservices 🛰️",
-            "System Design ⚙️",
+            "Machine Learning ⚙️",
             "Data Science with Python 📊🐍"
         ]
 
