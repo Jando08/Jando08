@@ -1,15 +1,4 @@
 <div align="center">
-
-# Hi there, I'm Andro 👋
-
-**Backend Software Developer · Aspiring Data Scientist · Software Engineering Student**
-
-<img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-</div>
-
-<br>
-
 ```python
 class Developer:
     def __init__(self):
@@ -33,6 +22,18 @@ class Developer:
 me = Developer()
 ```
 
+# Hi there, I'm Andro 👋
+
+**Backend Software Developer · Aspiring Data Scientist · Software Engineering Student**
+
+<img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>
+
+<br>
+
+
+
 <br>
 
 ## 🚀 About Me
@@ -48,17 +49,28 @@ me = Developer()
 
 ## 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
+
+**Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+**Database**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+**Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
