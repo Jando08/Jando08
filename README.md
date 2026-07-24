@@ -1,17 +1,27 @@
-**```python
+<div align="center">
+
+# Hi there, I'm Andro 👋
+
+**Backend Software Developer · Aspiring Data Scientist · Software Engineering Student**
+
+<img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>
+
+<br>
+
+```python
 class Developer:
     def __init__(self):
         self.name = "Andro"
         self.role = "Backend Software Developer"
         self.location = "Sinaloa, Mexico 🇲🇽"
-
         self.stack = {
             "Languages": ["C#", "Python", "PHP"],
             "Backend": [".NET", "ASP.NET Core", "REST APIs"],
             "Database": ["MySQL", "SQL Server", "PostgreSQL"],
             "Tools": ["Docker", "Git", "Linux", "Azure"]
         }
-
         self.currently_learning = [
             "Machine Learning ⚙️",
             "Data Science with Python 📊🐍"
@@ -23,66 +33,58 @@ class Developer:
 me = Developer()
 ```
 
-<div align="center">
-
-# Hi 👋 I'm Andro
-
-### Backend Software Developer • Data Scients Developer • Software Engineering Student
-
-<img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
+<br>
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student.
-- 💻 Passionate about Backend Development.
-- ⚡ Building scalable APIs with **.NET** and **Python**.
-- 🐳 Experienced with **Docker**, **Git** and **Linux*.
-- 📊 Currently learning **Data Science with Python**.
-- 🚀 Always looking for new challenges and opportunities to grow.
+- 🎓 Software Engineering student, always sharpening the fundamentals
+- 💻 Focused on backend development and clean, scalable API design
+- ⚡ Building with **.NET** and **Python**
+- 🐳 Comfortable with **Docker**, **Git**, and **Linux**
+- 📊 Currently diving into **Data Science** and **Machine Learning**
+- 🌱 Always chasing the next challenge worth learning from
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
----
+<br>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jando08&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jando08&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jando08&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jando08&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jando08&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jando08&theme=tokyonight" alt="GitHub profile summary"/>
 
 </div>
 
-
+<br>
 
 ## 👾 Contribution Graph
 
@@ -99,32 +101,26 @@ me = Developer()
 
 </div>
 
----
+<br>
 
 ## 🤝 Connect with Me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/alejandro-parra-leyva">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/andronova.98">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:alejandroleyva.0805@hotmail.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/alejandro-parra-leyva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/andronova.98">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:alejandroleyva.0805@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </p>
 
----
+<br>
 
 <div align="center">
 
-### 💻 Code • Learn • Improve • Repeat
+### 💻 Code · Learn · Improve · Repeat
 
 </div>
-```
-**
