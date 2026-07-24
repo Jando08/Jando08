@@ -9,7 +9,7 @@ class Developer:
             "Languages": ["C#", "Python", "PHP"],
             "Backend": [".NET", "ASP.NET Core", "REST APIs"],
             "Database": ["MySQL", "SQL Server", "PostgreSQL"],
-            "Tools": ["Docker", "Git", "Linux", "Azuree"]
+            "Tools": ["Docker", "Git", "Linux", "Azure"]
         }
 
         self.currently_learning = [
