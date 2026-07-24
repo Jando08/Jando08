@@ -1,4 +1,3 @@
-<div align="center">
 ```python
 class Developer:
     def __init__(self):
@@ -21,6 +20,9 @@ class Developer:
 
 me = Developer()
 ```
+
+
+<div align="center">
 
 # Hi there, I'm Andro 👋
 
