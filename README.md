@@ -2,7 +2,7 @@
 class Developer:
     def __init__(self):
         self.name = "Andro"
-        self.role = "Backend Software Developer"
+        self.role = "Data Enginner Developer"
         self.location = "Sinaloa, Mexico 🇲🇽"
         self.stack = {
             "Languages": ["C#", "Python", "PHP"],
