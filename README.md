@@ -11,8 +11,7 @@ class Developer:
             "Tools": ["Docker", "Git", "Linux", "Azure"]
         }
         self.currently_learning = [
-            "Machine Learning ⚙️",
-            "Data Science with Python 📊🐍"
+            "Data Enginner with Python 📊🐍"
         ]
 
     def motto(self):
