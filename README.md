@@ -18,7 +18,7 @@ class Developer:
     def motto(self):
         return "Code. Learn. Improve. Repeat."
 
-me = Developerr()
+me = Developer()
 ```
 
 
