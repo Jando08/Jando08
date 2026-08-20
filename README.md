@@ -27,7 +27,7 @@ me = Developer()
 
 # Hi there, I'm Andro 👋
 
-**Backend Software Developer · Aspiring Data Scientist · Software Engineering Student**
+**Aspiring Data Enginner · Software Engineering Student**
 
 <img src="https://komarev.com/ghpvc/?username=Jando08&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
