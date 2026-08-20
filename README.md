@@ -135,32 +135,6 @@
 
 <div align="center">
 
-## 🧠 AI / ML Expertise
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---:|:---:|:---|
-| 🤖 **Machine Learning** | ██████████ 95% | Scikit-learn, XGBoost, LightGBM, Feature Engineering, Model Optimization |
-| 🧠 **Deep Learning** | █████████░ 90% | PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, Attention Mechanisms |
-| 🗣️ **NLP & LLMs** | ██████████ 95% | Hugging Face, LangChain, RAG Pipelines, Fine-tuning, Prompt Engineering |
-| 👁️ **Computer Vision** | ████████░░ 80% | OpenCV, YOLO, Image Segmentation, Object Detection, OCR |
-| 📊 **MLOps** | ████████░░ 80% | MLflow, Kubeflow, Model Serving, A/B Testing, Pipeline Orchestration |
-| 🔬 **Research** | ████████░░ 80% | Paper Implementation, Statistical Analysis, Experimental Design |
-| ☁️ **Cloud ML** | ████████░░ 85% | AWS SageMaker, GCP Vertex AI, Azure ML, GPU Compute Optimization |
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ## 🚀 Featured Projects
 
 </div>
@@ -264,144 +238,6 @@ Uses custom fine-tuned sentence transformers for dense vector representations wi
 [![GitHub](https://img.shields.io/badge/🔗-Repository-6C3483?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/project)
 
 </details>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💼 Experience
-
-</div>
-
-<br/>
-
-### **Senior Software Engineer**
-**Company Name** | Jan 2023 – Present
-
-- Led the design and development of **microservices architecture** serving 10M+ users, improving system reliability to 99.99% uptime
-- Architected and deployed **AI-powered features** using LLMs and RAG pipelines, increasing user engagement by 35%
-- Mentored a team of **8 engineers**, conducting code reviews and establishing engineering best practices
-- Reduced **infrastructure costs by 45%** through optimization of cloud resources and implementation of auto-scaling policies
-- Implemented **CI/CD pipelines** with automated testing, reducing deployment time from 2 hours to 15 minutes
-
-`Python` `Go` `AWS` `Kubernetes` `Kafka` `PostgreSQL` `React` `Docker`
-
-<br/>
-
-### **Software Engineer**
-**Company Name** | Jun 2021 – Dec 2022
-
-- Developed **real-time data processing pipelines** handling 5M+ events/day with sub-second latency
-- Built **full-stack applications** using React and Node.js, serving 500K+ monthly active users
-- Designed and implemented **RESTful and GraphQL APIs** with comprehensive documentation and testing
-- Collaborated with product and design teams to deliver **user-centric features** on time and within scope
-- Contributed to **open-source projects** and established internal developer tools that improved team productivity by 30%
-
-`Java` `TypeScript` `React` `Spring Boot` `MongoDB` `Docker` `GitHub Actions`
-
-<br/>
-
-### **Software Development Intern**
-**Company Name** | Jan 2021 – May 2021
-
-- Developed **automation scripts** that reduced manual testing time by 60%
-- Built internal dashboards for **monitoring and analytics**, providing real-time visibility into system health
-- Participated in **agile development** processes, contributing to sprint planning and retrospectives
-
-`Python` `Django` `PostgreSQL` `Git` `Linux`
-
----
-
-<br/>
-
-<div align="center">
-
-## 🏆 Achievements
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| 🥇 **Global Hackathon Winner** | Won 1st place among 5,000+ teams at [Hackathon Name] for building an AI-powered accessibility tool |
-| 📜 **Open Source Contribution** | Top 50 contributor to [Major Project] with 500+ contributions and 3 merged RFCs |
-| 🎓 **Academic Excellence** | Gold Medalist — Top 1% of graduating class with distinction in Computer Science |
-| 💻 **Competitive Programming** | Global Rank 200+ on CodeChef, 5-star rating on HackerRank |
-| 📝 **Technical Writing** | Published 20+ articles on system design and ML with 100K+ total reads |
-| 🏅 **AWS Certified** | Certified Solutions Architect Professional & Machine Learning Specialty |
-| 🌟 **Employee of the Quarter** | Recognized for exceptional contributions to critical infrastructure projects |
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📜 Certifications
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**☁️ Amazon Web Services**
-<br/>
-![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS_Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Developer Associate](https://img.shields.io/badge/AWS_Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<br/>
-
-**🏛️ Oracle**
-<br/>
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Java SE Certified](https://img.shields.io/badge/Oracle_Java_SE-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-
-<br/>
-
-**🎓 NPTEL**
-<br/>
-![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL_Cloud_Computing-7C3AED?style=for-the-badge&logo=NPTEL&logoColor=white)
-![NPTEL Data Science](https://img.shields.io/badge/NPTEL_Data_Science-6C3483?style=for-the-badge&logo=NPTEL&logoColor=white)
-![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL_Machine_Learning-533483?style=for-the-badge&logo=NPTEL&logoColor=white)
-
-<br/>
-
-**🔗 Cisco**
-<br/>
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D8?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco CyberOps](https://img.shields.io/badge/Cisco_CyberOps-1BA0D8?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💻 Coding Profiles
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
-
-</div>
 
 ---
 
@@ -522,41 +358,22 @@ open_to:
   - Open source collaborations
   - Technical mentorship
   - Conference speaking
-```
-
 </div>
-
----
-
 <br/>
-
 <div align="center">
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 </div>
-
 <br/>
-
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/📧-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/🐱-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-6C3483?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
+Gmail (mailto:your.email@example.com)
+LinkedIn (https://linkedin.com/in/yourprofile)
+GitHub (https://github.com/yourusername)
+Portfolio (https://your-portfolio.com)
 </div>
-
----
-
 <br/>
-
 <div align="center">
-
-*"Engineering excellence is not about perfection — it's about relentless iteration toward a vision that matters."*
-
+"Engineering excellence is not about perfection — it's about relentless iteration toward a vision that matters."
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:6c3483&height=120&section=footer" width="100%"/>
-
 </div>
+```
