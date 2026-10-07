@@ -42,7 +42,7 @@ me = Developer()
 - 🎓 Software Engineering student, always sharpening the fundamentals
 - 💻 Focused on backend development and clean, scalable API design
 - 🐳 Comfortable with **Docker**, **Git**, and **Linux**
-- 📊 Currently diving into **Data Science** and **Machine Learning**
+- 📊 Currently diving into **Data Enginner** and **Machine Learning**
 - 🌱 Always chasing the next challenge worth learning from
 
 <br>
